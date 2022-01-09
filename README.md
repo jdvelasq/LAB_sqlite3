@@ -1,2 +1,3 @@
-# LAB_sqlite3
-LAB sqlite
+# Laboratorio
+
+Manipulación de Datos usando sqlite3
